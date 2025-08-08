@@ -5,11 +5,12 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-> A complete project that demonstrates **automatic image captioning** using the [BLIP model](https://huggingface.co/Salesforce/blip-image-captioning-base).  
-> Includes:
-> - 📱 **Streamlit Web App** for easy image upload and caption generation
-> - 📓 **Step-by-Step Jupyter Notebook** for experimentation
-> - 📂 **Image Dataset** for testing and extending the model
+A complete project that demonstrates **automatic image captioning** using the [BLIP model](https://huggingface.co/Salesforce/blip-image-captioning-base).  
+
+Includes:
+- 📱 **Streamlit Web App** for easy image upload and caption generation
+- 📓 **Step-by-Step Jupyter Notebook** for experimentation
+- 📂 **Image Dataset** for testing and extending the model
 
 ---
 
@@ -40,8 +41,12 @@ We provide:
 ## 📸 Screenshots
 
 ### Streamlit Web App
+
 ![Streamlit App Screenshot](image/image_captioning_app_1.jpg)
 ![Streamlit App Screenshot](image/image_captioning_app_2.jpg)
+
+---
+
 ![Streamlit App Screenshot](image/image_captioning_app_3.jpg)
 
 ---
