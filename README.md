@@ -51,8 +51,8 @@ We provide:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/image-captioning-blip.git
-cd image-captioning-blip
+git clone https://github.com/antoningr/Image_to_Text_Captioning
+cd Image_to_Text_Captioning
 ```
 
 ### 2️⃣ Create a Virtual Environment (optional)
