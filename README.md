@@ -1,8 +1,9 @@
 # 🖼️ Image Captioning with BLIP
 
-[![Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Hugging Face](https://img.shields.io/badge/Model-BLIP-blue?logo=huggingface&logoColor=white)](https://huggingface.co/Salesforce/blip-image-captioning-base)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
+[![Hugging Face](https://img.shields.io/badge/Model-BLIP-blue?logo=huggingface&logoColor=white)](https://huggingface.co/Salesforce/blip-image-captioning-base)
+[![Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 A complete project that demonstrates **automatic image captioning** using the [BLIP model](https://huggingface.co/Salesforce/blip-image-captioning-base).  
