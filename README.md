@@ -88,7 +88,6 @@ Then open your browser at: http://localhost:8501
 jupyter notebook notebook/image_captioning_blip.ipynb
 ```
 
----
 
 ## 🧠 How It Works
 
@@ -103,7 +102,6 @@ Pipeline:
 Image → Processor → BLIP Model → Decoder → Caption
 ```
 
----
 
 ## 📊 Example Results
 
