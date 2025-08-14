@@ -12,7 +12,6 @@ Includes:
 - 📓 **Step-by-Step Jupyter Notebook** for experimentation
 - 📂 **Image Dataset** for testing and extending the model
 
----
 
 ## 📌 Project Overview
 
@@ -24,7 +23,6 @@ We provide:
 - A **Jupyter Notebook** for in-depth understanding
 - A **sample dataset** for quick testing
 
----
 
 ## 🚀 Features
 
@@ -36,7 +34,6 @@ We provide:
 ✅ Detailed help tooltips in settings  
 ✅ Image caption history in the Streamlit app
 
----
 
 ## 📸 Screenshots
 
@@ -45,11 +42,9 @@ We provide:
 ![Streamlit App Screenshot](image/image_captioning_app_1.jpg)
 ![Streamlit App Screenshot](image/image_captioning_app_2.jpg)
 
----
 
 ![Streamlit App Screenshot](image/image_captioning_app_3.jpg)
 
----
 
 ## 🛠 Installation
 
@@ -74,7 +69,6 @@ venv\Scripts\activate      # On Windows
 pip install -r requirements.txt
 ```
 
----
 
 ## ▶️ Usage
 
