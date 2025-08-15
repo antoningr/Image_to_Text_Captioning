@@ -110,3 +110,4 @@ Image → Processor → BLIP Model → Decoder → Caption
 | 🐶 Dog                     | "a dog sitting next to a bicycle on a porch"                |
 | 🏀 Basketball              | "a basketball hoop with a ball in it"                       |
 | 👷 Construction Workers    | "two construction workers standing in front of a building"  |
+
