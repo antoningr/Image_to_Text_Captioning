@@ -110,3 +110,6 @@ Image → Processor → BLIP Model → Decoder → Caption
 | 🏀 Basketball              | "a basketball hoop with a ball in it"                       |
 | 👷 Construction Workers    | "two construction workers standing in front of a building"  |
 
+
+## 📜 License
+This project is licensed under the MIT License.
